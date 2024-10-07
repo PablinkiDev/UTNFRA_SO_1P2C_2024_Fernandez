@@ -1,0 +1,4 @@
+Mi IP Publica es: 186.137.157.230
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$VKMZL0BXTT1iU8aXN24vs.$mzAvFWDzVFdo3LrrZcb5t8BuRpFpekuS0T.b.Ed5lq.
+La URL de mi repositorio es: https://github.com/PablinkiDev/UTNFRA_SO_1P2C_2024_Fernandez.git
